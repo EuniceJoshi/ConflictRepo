@@ -1,5 +1,5 @@
 
-//github learning
+//github 
 
 #include <stdio.h>
 
