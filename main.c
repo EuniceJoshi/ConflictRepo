@@ -1,5 +1,6 @@
 
-//hai
+//github learning
+
 #include <stdio.h>
 
 void checkNumber(int n) {
