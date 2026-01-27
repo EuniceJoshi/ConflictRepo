@@ -1,5 +1,5 @@
 
-
+//hai
 #include <stdio.h>
 
 void checkNumber(int n) {
