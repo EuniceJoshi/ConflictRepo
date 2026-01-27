@@ -1,5 +1,8 @@
 
 //github learning is fun
+
+ 
+
 #include <stdio.h>
 
 void checkNumber(int n) {
